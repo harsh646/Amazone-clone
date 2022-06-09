@@ -1,0 +1,64 @@
+.navbar{
+    height: 45px;
+    width: 100%;
+    display: flex;
+    background-color: black;
+    position: sticky;
+
+}
+.aml
+{
+    margin-left: 10px;
+}
+.logo{
+    margin-top: 10px;
+    margin-left: 10px;
+    height: 30px;
+    width: 100px;
+}
+.search{
+  
+    margin-left: 20px;
+    display: flex;
+}
+
+.inp{
+    margin-top: 8px;
+    width: 800px;
+    height: 23px;
+}
+.icon
+{
+    height: 40px;
+    width: 40px;
+}
+
+.option
+{
+   
+    margin-left: 20px;
+    margin-top: 10px;
+    color: white;
+
+    
+}
+h6{
+    margin-top: -5px;
+}
+h5
+{
+    margin-top: -20px;
+}
+.check
+{
+    height: 40px;
+    width: 50px;
+}
+.c2
+{
+    margin-left: 20px;
+}
+.search
+{
+    margin-left: 10px;
+}

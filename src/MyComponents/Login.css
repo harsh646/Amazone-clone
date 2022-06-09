@@ -1,0 +1,33 @@
+.logcon
+{
+    width: 500px;
+    height: 500px;
+    border: 2px solid white;
+ 
+    margin-left: 365px;
+}
+.in2
+{
+    margin-top: -40px;
+    width: 500px;
+    height: 30px;
+}
+.butt5
+{
+    width: 400px;
+    background-color: yellow;
+    border: 1px solid yellowgreen;
+    margin-top: 20px;
+    margin-left: 40px;
+    height: 30px;
+    font-size: 20px;
+}
+.col
+{
+    background-color: white ;
+    
+}
+.inco
+{
+    margin-top: -27px;
+}
